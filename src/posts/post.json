@@ -1,0 +1,46 @@
+[
+  {
+    "id": "6658abe0-4304-433e-b887-b3ed79d71475",
+    "title": "post title 1",
+    "content": "Some content 331",
+    "comments": [
+      {
+        "text": "text of comment"
+      }
+    ],
+    "timestamp": "2024-04-25T08:00:00Z"
+  },
+  {
+    "id": "49a9c040-a789-49b2-9807-ffed193f8082",
+    "title": "post title 2",
+    "content": "Some content 332",
+    "comments": [
+      {
+        "text": "text of comment"
+      }
+    ],
+    "timestamp": "2024-04-24T08:15:00Z"
+  },
+  {
+    "id": "49a9c040-a789-49b2-9807-ffed193f8081",
+    "title": "post title 3",
+    "content": "Some content 333",
+    "comments": [
+      {
+        "text": "text of comment"
+      }
+    ],
+    "timestamp": "2024-04-25T08:30:00Z"
+  },
+  {
+    "id": "49a9c040-a789-49b2-9807-ffed193f8084",
+    "title": "post title 4",
+    "content": "Some content 334",
+    "comments": [
+      {
+        "text": "text of comment"
+      }
+    ],
+    "timestamp": "2024-04-25T08:45:00Z"
+  }
+]
